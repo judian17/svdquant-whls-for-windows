@@ -1,5 +1,5 @@
 # svdquant-whls-for-windows
-Unofficial Windows wheel package for the Nunchaku (SVDQuant) library.
+Unofficial Windows wheel package for the [Nunchaku](https://github.com/mit-han-lab/nunchaku) (SVDQuant) library.
 Compiled for use with RTX 4060 Ti 16GB GPUs; it will likely not work on 30-series or earlier GPUs.
 I'm also new to programming, and with the help of AI, I finally succeeded in setting up the compilation environment on my own. So, I'd like to provide convenience for others who want to try SVDQuant, and I hope it will be helpful to you.
 
