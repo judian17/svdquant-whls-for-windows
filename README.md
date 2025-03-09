@@ -7,4 +7,5 @@ I’m also new to programming, but with the help of AI, I finally managed to suc
 非官方的svdquant的nunchaku库的windows版本的whl文件。
 编译使用显卡为RTX4060TI 16g，大概可以在30系显卡上使用。 但无法在20系及以前的显卡上使用。
 我也是编程新手，利用AI终于自己成功编译环境，所以想为其他想尝试svdquant的人提供便利，希望对你有所帮助。
-更新于2025.03.10，官方已经提供python311 python312的轮子，故不再更新官方轮子：https://huggingface.co/mit-han-lab/nunchaku/tree/main
+更新于2025.03.10，官方已经提供python311 python312的轮子，故不再更新。
+官方轮子：https://huggingface.co/mit-han-lab/nunchaku/tree/main
